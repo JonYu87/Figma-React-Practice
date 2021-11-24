@@ -1,5 +1,6 @@
 import React from "react";
-//If we wanted to import all the components from the folder using our index.js file we can but we are going to use containers instead
+import "./App.css";
+
 import {
   Footer,
   Blog,
