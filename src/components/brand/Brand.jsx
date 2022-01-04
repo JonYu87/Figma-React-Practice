@@ -1,9 +1,10 @@
 import React from 'react'
 import './brand.css'
+import { google, slack, atlassian, drop, shopify } from './imports'
 
 const Brand = () => {
   return (
-    <div>
+    <div className=''>
       Brand
     </div>
   )
